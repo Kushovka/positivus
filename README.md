@@ -23,10 +23,9 @@ The main focus was on clean, pixel-perfect layout based on the design, a compone
 <h1>⚙️ Tech Stack</h1>
 <br><br>
 <div align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 </div>
 <br><br>
@@ -35,12 +34,20 @@ The main focus was on clean, pixel-perfect layout based on the design, a compone
 <br><br>
 <div align="center">
    <b>EN:</b><br />
-  <p>This project is created for educational purposes only. All information, visual materials, and interactive elements are used to demonstrate development and 3D visualization skills. This project is not a commercial product. Any resemblance to real companies, brands, or characters is purely coincidental.</p>
+  <p>This project is intended for educational and portfolio purposes only.
+The original design belongs to Olga Skuja and was provided as a free resource on Figma Community:
+<a href="https://www.figma.com/design/7D4W4SewIgAFvWw1qPiWUS/positivus-figma-template?node-id=330-762&t=PLjKCXPo1UeUd3ON-1"><strong>Positivus Figma Template</strong></a>.
+
+I do not claim ownership of the original design. All rights to the design remain with the original creator.</p>
 </div>
 <br><br>
 <div align="center">
     <b>RU:</b><br />
-  <p>Этот проект создан исключительно в образовательных целях. Все материалы, визуальные элементы и интерактивные компоненты используются для демонстрации навыков разработки и 3D-визуализации. Этот проект не является коммерческим продуктом. Любое совпадение с реальными компаниями, брендами или персонажами является случайным.</p>
+  <p>Данный проект создан исключительно в учебных целях и для пополнения портфолио.
+Оригинальный дизайн принадлежит Olga Skuja и был выложен в свободный доступ в сообществе Figma:
+<a href="https://www.figma.com/design/7D4W4SewIgAFvWw1qPiWUS/positivus-figma-template?node-id=330-762&t=PLjKCXPo1UeUd3ON-1"><strong>Positivus Figma Template</strong></a>.
+
+Я не претендую на авторские права на оригинальный дизайн. Все права на макет принадлежат его создателю.</p>
 </div>
 <br><br>
 <h1>☎️ Connect with me </h1>
