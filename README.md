@@ -5,19 +5,51 @@
 <div align="center">
   <b>EN:</b><br />
 <p>
-This project is a fully responsive adaptation of the free <a href="https://www.figma.com/design/7D4W4SewIgAFvWw1qPiWUS/positivus-figma-template?node-id=330-762&t=PLjKCXPo1UeUd3ON-1"><strong>Positivus Figma template by Olga Skuja</strong></a>, built from scratch using <br /> React + Vite + Tailwind CSS + Framer Motion.
+  This project is a fully responsive adaptation of the free
+  <a href="https://www.figma.com/design/7D4W4SewIgAFvWw1qPiWUS/positivus-figma-template?node-id=330-762&t=PLjKCXPo1UeUd3ON-1"><strong>Positivus Figma template by Olga Skuja</strong></a>,
+  built from scratch using <br />
+  <strong>React + Vite + Tailwind CSS + Framer Motion</strong>.
+</p>
 
-The main focus was on clean, pixel-perfect layout based on the design, a component-based architecture, and smooth animations. Hover effects, transitions, and Framer Motion animations have been added to enhance interactivity. All UI elements are separated into reusable components, and the folder structure is organized for scalability and clarity. The project is crafted with attention to detail and clean code practices, making it a solid portfolio piece..
-  </p>
+<p>
+  The main focus was on clean, pixel-perfect layout based on the design, a component-based architecture, and smooth animations.
+  Transitions and Framer Motion animations were added to enhance interactivity.
+  All elements are split into reusable components, and the project structure is organized for scalability and clarity.
+</p>
+
+<p>
+  A lot of effort was also put into <strong>responsive design</strong> — the site looks great across all device types,
+  from mobile phones to large desktops. A mobile-first approach was used with a well-thought-out system of breakpoints.
+</p>
+
+<p>
+  The project was built with a strong focus on clean code and good frontend development practices. A solid addition to any portfolio.
+</p>
 </div>
 <br><br>
 <div align="center">
 <b>RU:</b><br />
 <p>
-Этот проект — адаптация бесплатного макета <a href="https://www.figma.com/design/7D4W4SewIgAFvWw1qPiWUS/positivus-figma-template?node-id=330-762&t=PLjKCXPo1UeUd3ON-1"><strong> Positivus от Olga Skuja</strong></a>, выполненная с нуля на стеке <br /> React + Vite + Tailwind CSS + Framer Motion.
+  Этот проект — адаптация бесплатного макета
+  <a href="https://www.figma.com/design/7D4W4SewIgAFvWw1qPiWUS/positivus-figma-template?node-id=330-762&t=PLjKCXPo1UeUd3ON-1"><strong>Positivus от Olga Skuja</strong></a>,
+  выполненная с нуля на стеке <br />
+  <strong>React + Vite + Tailwind CSS + Framer Motion</strong>.
+</p>
 
-Основной фокус — точная и чистая вёрстка по макету, компонентный подход, анимации и грамотная организация проекта. Добавлены hover-эффекты, плавные переходы и анимации через Framer Motion. Все элементы разбиты по отдельным компонентам, структура проекта выстроена понятно и масштабируемо. Работа выполнена с упором на чистый код и хорошую практику для портфолио.
-  </p>
+<p>
+  Основной фокус — точная и чистая вёрстка по макету, компонентный подход, анимации и грамотная организация проекта.
+  Добавлены плавные переходы и анимации через Framer Motion.
+  Все элементы разбиты по отдельным компонентам, структура проекта выстроена понятно и масштабируемо.
+</p>
+
+<p>
+  Также была проделана большая работа по <strong>адаптивной вёрстке</strong> — сайт корректно отображается на всех типах устройств:
+  от мобильных телефонов до больших десктопов. Использован мобильный first-подход с продуманной системой брейкпоинтов.
+</p>
+
+<p>
+  Работа выполнена с упором на чистый код и хорошие практики фронтенд-разработки. Подходит как часть портфолио.
+</p>
 </div>
 <br><br>
 <h1>⚙️ Tech Stack</h1>
