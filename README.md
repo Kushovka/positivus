@@ -1,5 +1,6 @@
 # 👉 **[Positivus Website](https://kushovka.github.io/positivus/)** — React + Tailwind CSS
 <br><br>
+![4bc8a72c-e4aa-4ccf-8183-99d1a4790976](https://github.com/user-attachments/assets/7dbeecfd-c9f5-42fc-bd8b-59d97f4ded2c)
 
 <br><br>
 <div align="center">
